@@ -1,0 +1,3298 @@
+/*
+	@name about_dark
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_about_dark_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__about_dark_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #000000;
+	background:rgba(0,0,0,255);
+}
+
+
+#about {
+	top: 68px;
+	left: 63px;
+	width: 231px;
+	height: 117px;
+	font-family: Segoe UI;
+	font-size: 77px;
+	text-align: center;
+	color:#dddddd;
+}
+
+#toggle {
+	top: 28px;
+	left: 1709px;
+	width: 94.72216796875px;
+	height: 43.055557250977px;
+}
+
+#toggle_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 94.72216796875px;
+	height: 43.055557250977px;
+}
+
+
+#position {
+	top: 11px;
+	left: 11px;
+	width: 21.52783203125px;
+	height: 21.527774810791px;
+}
+
+
+#off {
+	top: 28px;
+	left: 1821px;
+	width: 71px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_11 {
+	top: 222px;
+	left: 171px;
+	width: 1456px;
+	height: 698px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	background:rgba(112,112,112,255);
+}
+
+
+#anavrin {
+	top: 258px;
+	left: 548px;
+	width: 653px;
+	height: 269px;
+	font-family: Segoe UI;
+	font-size: 176px;
+	text-align: center;
+	color:#cccccc;
+}
+
+
+#a_free_to_use_archive_of_day_to_day_college_classroom_notes_ {
+	top: 590px;
+	left: 548px;
+	width: 695px;
+	height: 135px;
+	font-family: Segoe UI;
+	font-size: 47px;
+	text-align: center;
+	color:#cccccc;
+}
+
+#group_8 {
+	top: 920px;
+	left: 1712px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+}
+
+#ellipse {
+	top: 0px;
+	left: 0px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-o-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-moz-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-webkit-border-radius: 57.60499954223633px / 56.271087646484375px;
+	border-radius: 57.60499954223633px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+#group_6 {
+	top: 32px;
+	left: 33px;
+	width: 51.6865234375px;
+	height: 49.0234375px;
+}
+
+#line_6 {
+	top: -1px;
+	left: -1px;
+	width: 50.671875px;
+	height: 51.13427734375px;
+}
+
+
+#path_7 {
+	top: -1px;
+	left: 1px;
+	width: 51.505859375px;
+	height: 50.676025390625px;
+}
+
+#page_about_dark___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__about_dark___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #000000;
+	background:rgba(0,0,0,255);
+}
+
+
+#join_us {
+	top: 38px;
+	left: 40px;
+	width: 257px;
+	height: 117px;
+	font-family: Segoe UI;
+	font-size: 77px;
+	text-align: center;
+	color:#dddddd;
+}
+
+#toggle_ek2 {
+	top: 28px;
+	left: 1709px;
+	width: 94.72265625px;
+	height: 43.055557250977px;
+}
+
+#toggle_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 94.72265625px;
+	height: 43.055557250977px;
+}
+
+
+#position_ek1 {
+	top: 11px;
+	left: 11px;
+	width: 21.52734375px;
+	height: 21.527774810791px;
+}
+
+
+#off_ek1 {
+	top: 28px;
+	left: 1821px;
+	width: 71px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek1 {
+	top: 192px;
+	left: 171px;
+	width: 1599px;
+	height: 754px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	background:rgba(112,112,112,255);
+}
+
+#group_8_ek1 {
+	top: 890px;
+	left: 1689px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 115.2099609375px;
+	height: 112.54217529297px;
+	-ms-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-o-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-moz-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-webkit-border-radius: 57.60499954223633px / 56.271087646484375px;
+	border-radius: 57.60499954223633px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+#group_6_ek1 {
+	top: 32px;
+	left: 33px;
+	width: 51.6865234375px;
+	height: 49.0234375px;
+}
+
+#line_6_ek1 {
+	top: -1px;
+	left: -1px;
+	width: 50.6708984375px;
+	height: 51.13427734375px;
+}
+
+
+#path_7_ek1 {
+	top: -1px;
+	left: 1px;
+	width: 51.505859375px;
+	height: 50.676025390625px;
+}
+
+
+#line_9 {
+	top: 395px;
+	left: 1001px;
+	width: 5px;
+	height: 420px;
+}
+
+
+#login {
+	top: 213px;
+	left: 374px;
+	width: 223px;
+	height: 128px;
+	font-family: Segoe UI;
+	font-size: 83px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#signup {
+	top: 213px;
+	left: 1255px;
+	width: 279px;
+	height: 128px;
+	font-family: Segoe UI;
+	font-size: 83px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#name {
+	top: 409px;
+	left: 1072px;
+	width: 134px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#semester {
+	top: 670px;
+	left: 1070px;
+	width: 203px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#email {
+	top: 510px;
+	left: 251px;
+	width: 120px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#email_ek1 {
+	top: 496px;
+	left: 1072px;
+	width: 120px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#title {
+	top: 757px;
+	left: 1070px;
+	width: 95px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#password {
+	top: 597px;
+	left: 251px;
+	width: 205px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#college {
+	top: 583px;
+	left: 1072px;
+	width: 167px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_36 {
+	top: 424px;
+	left: 1398px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_41 {
+	top: 685px;
+	left: 1396px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_37 {
+	top: 525px;
+	left: 577px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_35 {
+	top: 511px;
+	left: 1398px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_40 {
+	top: 772px;
+	left: 1396px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_38 {
+	top: 612px;
+	left: 577px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_34 {
+	top: 598px;
+	left: 1398px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_1 {
+	top: 443px;
+	left: 932px;
+	width: 15.7734375px;
+	height: 8.59375px;
+}
+
+
+#path_17 {
+	top: 476px;
+	left: 1701px;
+	width: 15.7734375px;
+	height: 8.5938415527344px;
+}
+
+
+#path_2 {
+	top: 526px;
+	left: 932px;
+	width: 15.7734375px;
+	height: 8.59375px;
+}
+
+
+#path_16 {
+	top: 559px;
+	left: 1701px;
+	width: 15.7734375px;
+	height: 8.5938720703125px;
+}
+
+
+#path_3 {
+	top: 617px;
+	left: 932px;
+	width: 15.7734375px;
+	height: 8.59375px;
+}
+
+
+#path_15 {
+	top: 650px;
+	left: 1701px;
+	width: 15.7734375px;
+	height: 8.5938720703125px;
+}
+
+
+#semester_drop_down {
+	top: 432px;
+	left: 1447px;
+	width: 216px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#semester_drop_down_ek1 {
+	top: 693px;
+	left: 1445px;
+	width: 216px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#subject_drop_down {
+	top: 517px;
+	left: 1456px;
+	width: 198px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#subject_drop_down_ek1 {
+	top: 778px;
+	left: 1454px;
+	width: 198px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#date_drop_down {
+	top: 604px;
+	left: 1470px;
+	width: 170px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#button_base {
+	top: 857px;
+	left: 525px;
+	width: 217.521484375px;
+	height: 65.375244140625px;
+}
+
+
+#button_base_ek1 {
+	top: 860px;
+	left: 1269px;
+	width: 217.521484375px;
+	height: 65.375244140625px;
+}
+
+
+#login_ek1 {
+	top: 850px;
+	left: 574px;
+	width: 124px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#register {
+	top: 855px;
+	left: 1292px;
+	width: 176px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#page_about_light_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__about_light_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+#__elements___toggle___off {
+	top: 28px;
+	left: 1709px;
+	width: 94.72265625px;
+	height: 43.055557250977px;
+}
+
+#toggle_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 94.72265625px;
+	height: 43.055557250977px;
+}
+
+
+#position_ek2 {
+	top: 10px;
+	left: 10px;
+	width: 22.52734375px;
+	height: 22.527778625488px;
+}
+
+
+#off_ek2 {
+	top: 28px;
+	left: 1821px;
+	width: 67px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#about_ek1 {
+	top: 68px;
+	left: 63px;
+	width: 231px;
+	height: 117px;
+	font-family: Segoe UI;
+	font-size: 77px;
+	text-align: center;
+	color:#707070;
+}
+
+
+#rectangle_12 {
+	top: 222px;
+	left: 171px;
+	width: 1456px;
+	height: 698px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	background:rgba(204,204,204,255);
+}
+
+
+#anavrin_ek1 {
+	top: 258px;
+	left: 548px;
+	width: 653px;
+	height: 269px;
+	font-family: Segoe UI;
+	font-size: 176px;
+	text-align: center;
+	color:#444444;
+}
+
+
+#a_free_to_use_archive_of_day_to_day_college_classroom_notes__ek1 {
+	top: 590px;
+	left: 548px;
+	width: 695px;
+	height: 135px;
+	font-family: Segoe UI;
+	font-size: 47px;
+	text-align: center;
+	color:#444444;
+}
+
+#group_9 {
+	top: 920px;
+	left: 1712px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-o-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-moz-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-webkit-border-radius: 57.60499954223633px / 56.271087646484375px;
+	border-radius: 57.60499954223633px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+#group_6_ek2 {
+	top: 32px;
+	left: 33px;
+	width: 51.6865234375px;
+	height: 49.0234375px;
+}
+
+#line_6_ek2 {
+	top: -1px;
+	left: -1px;
+	width: 50.6708984375px;
+	height: 51.13427734375px;
+}
+
+
+#path_7_ek2 {
+	top: -1px;
+	left: 1px;
+	width: 51.505859375px;
+	height: 50.676025390625px;
+}
+
+#page_about_light___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__about_light___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+#__elements___toggle___off_ek1 {
+	top: 28px;
+	left: 1709px;
+	width: 94.72265625px;
+	height: 43.055557250977px;
+}
+
+#toggle_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 94.72265625px;
+	height: 43.055557250977px;
+}
+
+
+#position_ek3 {
+	top: 10px;
+	left: 10px;
+	width: 22.52734375px;
+	height: 22.527778625488px;
+}
+
+
+#off_ek3 {
+	top: 28px;
+	left: 1821px;
+	width: 67px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#about_ek2 {
+	top: 68px;
+	left: 63px;
+	width: 231px;
+	height: 117px;
+	font-family: Segoe UI;
+	font-size: 77px;
+	text-align: center;
+	color:#707070;
+}
+
+
+#rectangle_12_ek1 {
+	top: 222px;
+	left: 171px;
+	width: 1456px;
+	height: 698px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	background:rgba(204,204,204,255);
+}
+
+
+#anavrin_ek2 {
+	top: 258px;
+	left: 548px;
+	width: 653px;
+	height: 269px;
+	font-family: Segoe UI;
+	font-size: 176px;
+	text-align: center;
+	color:#444444;
+}
+
+
+#a_free_to_use_archive_of_day_to_day_college_classroom_notes__ek2 {
+	top: 590px;
+	left: 548px;
+	width: 695px;
+	height: 135px;
+	font-family: Segoe UI;
+	font-size: 47px;
+	text-align: center;
+	color:#444444;
+}
+
+#group_9_ek1 {
+	top: 920px;
+	left: 1712px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-o-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-moz-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-webkit-border-radius: 57.60499954223633px / 56.271087646484375px;
+	border-radius: 57.60499954223633px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+#group_6_ek3 {
+	top: 32px;
+	left: 33px;
+	width: 51.6865234375px;
+	height: 49.0234375px;
+}
+
+#line_6_ek3 {
+	top: -1px;
+	left: -1px;
+	width: 50.6708984375px;
+	height: 51.13427734375px;
+}
+
+
+#path_7_ek3 {
+	top: -1px;
+	left: 1px;
+	width: 51.505859375px;
+	height: 50.676025390625px;
+}
+
+#page_prefrences_dark_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__prefrences_dark_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_3 {
+	top: 1px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #000000;
+	background:rgba(0,0,0,255);
+}
+
+
+#anavrin_ek3 {
+	top: 49px;
+	left: 71px;
+	width: 399px;
+	height: 163px;
+	font-family: Segoe UI;
+	font-size: 107px;
+	text-align: left;
+	color:#8664c3;
+}
+
+#group_2 {
+	top: 920px;
+	left: 1714px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-o-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-moz-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-webkit-border-radius: 57.604522705078125px / 56.271087646484375px;
+	border-radius: 57.604522705078125px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+
+#icon {
+	top: 30px;
+	left: 31px;
+	width: 56px;
+	height: 62px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 51px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_4 {
+	top: 920px;
+	left: 1553px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-o-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-moz-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-webkit-border-radius: 57.604522705078125px / 56.271087646484375px;
+	border-radius: 57.604522705078125px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+
+#icon_ek1 {
+	top: 31px;
+	left: 33px;
+	width: 56px;
+	height: 62px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 51px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#toggle_ek6 {
+	top: 29px;
+	left: 1709px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+#toggle_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+
+#position_ek4 {
+	top: 11px;
+	left: 11px;
+	width: 21.52783203125px;
+	height: 21.52783203125px;
+}
+
+
+#off_ek4 {
+	top: 29px;
+	left: 1821px;
+	width: 71px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#component_2___2 {
+	top: 216px;
+	left: 59px;
+	width: 1861px;
+	height: 6.3515625px;
+}
+
+#line_2 {
+	top: -0px;
+	left: -2px;
+	width: 1862.8464355469px;
+	height: 10px;
+}
+
+
+#select_your_archive {
+	top: 307px;
+	left: 71px;
+	width: 407px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#semester_ek1 {
+	top: 459px;
+	left: 71px;
+	width: 203px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#subject_code {
+	top: 546px;
+	left: 71px;
+	width: 282px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#date {
+	top: 633px;
+	left: 71px;
+	width: 106px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_5 {
+	top: 474px;
+	left: 458px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_6 {
+	top: 561px;
+	left: 458px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_7 {
+	top: 648px;
+	left: 458px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_1_ek1 {
+	top: 496px;
+	left: 761px;
+	width: 15.773559570312px;
+	height: 8.59375px;
+}
+
+
+#path_2_ek1 {
+	top: 579px;
+	left: 761px;
+	width: 15.773559570312px;
+	height: 8.59375px;
+}
+
+
+#path_3_ek1 {
+	top: 670px;
+	left: 761px;
+	width: 15.773559570312px;
+	height: 8.59375px;
+}
+
+
+#semester_drop_down_ek2 {
+	top: 482px;
+	left: 507px;
+	width: 216px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#subject_drop_down_ek2 {
+	top: 567px;
+	left: 516px;
+	width: 198px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#date_drop_down_ek1 {
+	top: 654px;
+	left: 530px;
+	width: 170px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+#group_16 {
+	top: 109px;
+	left: 1564px;
+	width: 78.118408203125px;
+	height: 78.0966796875px;
+}
+#group_15 {
+	top: 0px;
+	left: 0px;
+	width: 78.118408203125px;
+	height: 78.0966796875px;
+}
+
+#path_12 {
+	top: 0px;
+	left: 0px;
+	width: 78.118408203125px;
+	height: 78.0966796875px;
+}
+
+#group_14 {
+	top: 20px;
+	left: 22px;
+	width: 34.15576171875px;
+	height: 39.079833984375px;
+}
+
+#path_13 {
+	top: 0px;
+	left: 0px;
+	width: 34.15576171875px;
+	height: 39.079833984375px;
+}
+
+
+#path_14 {
+	top: 2px;
+	left: 7px;
+	width: 19.4951171875px;
+	height: 19.478271484375px;
+}
+
+
+#_ {
+	top: 154px;
+	left: 1675px;
+	width: 5px;
+	height: 3px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#5b5b5b;
+}
+
+
+#welcome_rahul {
+	top: 125px;
+	left: 1666px;
+	width: 238px;
+	height: 53px;
+	font-family: Segoe UI;
+	font-size: 34px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#page_prefrences_light_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__prefrences_light_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_4 {
+	top: 1px;
+	left: 0px;
+	width: 1920px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#anavrin_ek4 {
+	top: 49px;
+	left: 71px;
+	width: 399px;
+	height: 163px;
+	font-family: Segoe UI;
+	font-size: 107px;
+	text-align: left;
+	color:#8664c3;
+}
+
+#group_3 {
+	top: 920px;
+	left: 1714px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-o-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-moz-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-webkit-border-radius: 57.604522705078125px / 56.271087646484375px;
+	border-radius: 57.604522705078125px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+
+#icon_ek2 {
+	top: 30px;
+	left: 31px;
+	width: 56px;
+	height: 62px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 51px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_5 {
+	top: 920px;
+	left: 1559px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-o-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-moz-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-webkit-border-radius: 57.604522705078125px / 56.271087646484375px;
+	border-radius: 57.604522705078125px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+
+#icon_ek3 {
+	top: 31px;
+	left: 33px;
+	width: 56px;
+	height: 62px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 51px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#toggle_ek8 {
+	top: 29px;
+	left: 1709px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+#toggle_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+
+#position_ek5 {
+	top: 11px;
+	left: 63px;
+	width: 21.52783203125px;
+	height: 21.52783203125px;
+}
+
+
+#off_ek5 {
+	top: 29px;
+	left: 1821px;
+	width: 67px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#4f4f4f;
+}
+
+#component_2___4 {
+	top: 216px;
+	left: 59px;
+	width: 1861px;
+	height: 6.3515625px;
+}
+
+#line_2_ek1 {
+	top: -0px;
+	left: -2px;
+	width: 1862.8465576172px;
+	height: 10px;
+}
+
+
+#select_your_archive_ek1 {
+	top: 307px;
+	left: 71px;
+	width: 407px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#semester_ek2 {
+	top: 459px;
+	left: 71px;
+	width: 203px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#subject_code_ek1 {
+	top: 546px;
+	left: 71px;
+	width: 282px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#date_ek1 {
+	top: 633px;
+	left: 71px;
+	width: 106px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_8 {
+	top: 474px;
+	left: 458px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(230,230,230,255);
+}
+
+
+#rectangle_9 {
+	top: 561px;
+	left: 458px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(230,230,230,255);
+}
+
+
+#rectangle_10 {
+	top: 648px;
+	left: 458px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(230,230,230,255);
+}
+
+
+#path_4 {
+	top: 496px;
+	left: 761px;
+	width: 15.7734375px;
+	height: 8.59375px;
+}
+
+
+#path_5 {
+	top: 579px;
+	left: 761px;
+	width: 15.7734375px;
+	height: 8.59375px;
+}
+
+
+#path_6 {
+	top: 670px;
+	left: 761px;
+	width: 15.7734375px;
+	height: 8.59375px;
+}
+
+
+#semester_drop_down_ek3 {
+	top: 482px;
+	left: 507px;
+	width: 216px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#subject_drop_down_ek3 {
+	top: 567px;
+	left: 516px;
+	width: 198px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#date_drop_down_ek2 {
+	top: 654px;
+	left: 530px;
+	width: 170px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#welcome_rahul_ek1 {
+	top: 113px;
+	left: 1645px;
+	width: 238px;
+	height: 53px;
+	font-family: Segoe UI;
+	font-size: 34px;
+	text-align: left;
+	color:#666666;
+}
+
+#group_17 {
+	top: 97px;
+	left: 1540px;
+	width: 78.118408203125px;
+	height: 78.0966796875px;
+}
+#group_15_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 78.118408203125px;
+	height: 78.0966796875px;
+}
+
+#path_12_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 78.118408203125px;
+	height: 78.0966796875px;
+}
+
+#group_14_ek1 {
+	top: 20px;
+	left: 22px;
+	width: 34.15576171875px;
+	height: 39.079833984375px;
+}
+
+#path_13_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 34.15576171875px;
+	height: 39.079833984375px;
+}
+
+
+#path_14_ek1 {
+	top: 2px;
+	left: 7px;
+	width: 19.4951171875px;
+	height: 19.478271484375px;
+}
+
+#page_homepage_light_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__homepage_light_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#a_class_notes_archive {
+	top: 564px;
+	left: 59px;
+	width: 888px;
+	height: 153px;
+	font-family: Segoe UI;
+	font-size: 100px;
+	text-align: left;
+	color:#8664c3;
+}
+
+
+#anavrin_ek5 {
+	top: 254px;
+	left: 59px;
+	width: 678px;
+	height: 280px;
+	font-family: Segoe UI;
+	font-size: 183px;
+	text-align: left;
+	color:#8664c3;
+}
+
+
+#line_2_ek2 {
+	top: 522px;
+	left: 60px;
+	width: 1185px;
+	height: 10px;
+}
+
+#group_1 {
+	top: 920px;
+	left: 1712px;
+	width: 115.208984375px;
+	height: 112.54229736328px;
+}
+
+#ellipse_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 115.208984375px;
+	height: 112.54217529297px;
+	-ms-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-o-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-moz-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-webkit-border-radius: 57.604522705078125px / 56.271087646484375px;
+	border-radius: 57.604522705078125px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+
+#icon_ek4 {
+	top: 30px;
+	left: 31px;
+	width: 56px;
+	height: 62px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 51px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about_ek3 {
+	top: 976px;
+	left: 252px;
+	width: 123px;
+	height: 61px;
+	font-family: Segoe UI;
+	font-size: 40px;
+	text-align: center;
+	color:#666666;
+}
+
+
+#team {
+	top: 976px;
+	left: 64px;
+	width: 105px;
+	height: 61px;
+	font-family: Segoe UI;
+	font-size: 40px;
+	text-align: center;
+	color:#666666;
+}
+
+#__elements___toggle___off_ek2 {
+	top: 28px;
+	left: 1709px;
+	width: 94.72216796875px;
+	height: 43.055557250977px;
+}
+
+#toggle_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 94.72216796875px;
+	height: 43.055557250977px;
+}
+
+
+#position_ek6 {
+	top: 11px;
+	left: 64px;
+	width: 21.52783203125px;
+	height: 21.527774810791px;
+}
+
+
+#off_ek6 {
+	top: 28px;
+	left: 1821px;
+	width: 67px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#doc_logo_02 {
+	top: 298px;
+	left: 1367px;
+	width: 437px;
+	height: 436px;
+}
+
+#page_homepage_dark_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__homepage_dark_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #000000;
+	background:rgba(0,0,0,255);
+}
+
+
+#a_class_notes_archive_ek1 {
+	top: 564px;
+	left: 59px;
+	width: 888px;
+	height: 153px;
+	font-family: Segoe UI;
+	font-size: 100px;
+	text-align: left;
+	color:#8664c3;
+}
+
+
+#anavrin_ek6 {
+	top: 254px;
+	left: 59px;
+	width: 678px;
+	height: 280px;
+	font-family: Segoe UI;
+	font-size: 183px;
+	text-align: left;
+	color:#8664c3;
+}
+
+#component_2___1 {
+	top: 523px;
+	left: 60px;
+	width: 1180.9422607422px;
+	height: 27.998840332031px;
+}
+
+#line_2_ek3 {
+	top: -0px;
+	left: -2px;
+	width: 1182.7886962891px;
+	height: 10px;
+}
+
+
+#about_ek4 {
+	top: 976px;
+	left: 252px;
+	width: 123px;
+	height: 61px;
+	font-family: Segoe UI;
+	font-size: 40px;
+	text-align: center;
+	color:#666666;
+}
+
+
+#team_ek1 {
+	top: 976px;
+	left: 64px;
+	width: 105px;
+	height: 61px;
+	font-family: Segoe UI;
+	font-size: 40px;
+	text-align: center;
+	color:#666666;
+}
+
+#toggle_ek11 {
+	top: 28px;
+	left: 1709px;
+	width: 94.72216796875px;
+	height: 43.055557250977px;
+}
+
+#toggle_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 94.72216796875px;
+	height: 43.055557250977px;
+}
+
+
+#position_ek7 {
+	top: 11px;
+	left: 11px;
+	width: 21.52783203125px;
+	height: 21.527774810791px;
+}
+
+
+#off_ek7 {
+	top: 28px;
+	left: 1821px;
+	width: 71px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_7 {
+	top: 920px;
+	left: 1713px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 115.208984375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-o-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-moz-border-radius: 57.604522705078125px / 56.271087646484375px;
+	-webkit-border-radius: 57.604522705078125px / 56.271087646484375px;
+	border-radius: 57.604522705078125px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+#group_6_ek4 {
+	top: 34px;
+	left: 33px;
+	width: 52.945068359375px;
+	height: 44.760498046875px;
+}
+
+#line_5 {
+	top: 21px;
+	left: 0px;
+	width: 51.803955078125px;
+	height: 3px;
+}
+
+
+#line_6_ek4 {
+	top: -1px;
+	left: 28px;
+	width: 25.599365234375px;
+	height: 25.224304199219px;
+}
+
+
+#path_7_ek4 {
+	top: 21px;
+	left: 28px;
+	width: 25.599365234375px;
+	height: 25.224304199219px;
+}
+
+
+#doc_logo_02_ek1 {
+	top: 298px;
+	left: 1367px;
+	width: 437px;
+	height: 436px;
+}
+
+#page_team_dark_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__team_dark_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_13 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #000000;
+	background:rgba(0,0,0,255);
+}
+
+
+#team_ek2 {
+	top: 68px;
+	left: 80px;
+	width: 197px;
+	height: 117px;
+	font-family: Segoe UI;
+	font-size: 77px;
+	text-align: center;
+	color:#dddddd;
+}
+
+#toggle_ek13 {
+	top: 28px;
+	left: 1709px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+#toggle_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+
+#position_ek8 {
+	top: 11px;
+	left: 11px;
+	width: 21.52783203125px;
+	height: 21.52783203125px;
+}
+
+
+#off_ek8 {
+	top: 28px;
+	left: 1821px;
+	width: 71px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_14 {
+	top: 222px;
+	left: 171px;
+	width: 1456px;
+	height: 698px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	background:rgba(112,112,112,255);
+}
+
+
+#rahul_gaur {
+	top: 238px;
+	left: 414px;
+	width: 921px;
+	height: 269px;
+	font-family: Segoe UI;
+	font-size: 176px;
+	text-align: center;
+	color:#cccccc;
+}
+
+
+#hi__i_m_the_developer_behind_this_project__currently_pursuing_my_b_e__degree_from_nsit__my_interest_in_graphic_designing_and_development_brought_us_here_ {
+	top: 510px;
+	left: 385px;
+	width: 1021px;
+	height: 261px;
+	font-family: Segoe UI;
+	font-size: 47px;
+	text-align: center;
+	color:#cccccc;
+}
+
+#group_10 {
+	top: 920px;
+	left: 1712px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-o-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-moz-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-webkit-border-radius: 57.60499954223633px / 56.271087646484375px;
+	border-radius: 57.60499954223633px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+#group_6_ek5 {
+	top: 32px;
+	left: 33px;
+	width: 51.6865234375px;
+	height: 49.0234375px;
+}
+
+#line_6_ek5 {
+	top: -1px;
+	left: -1px;
+	width: 50.671875px;
+	height: 51.13427734375px;
+}
+
+
+#path_7_ek5 {
+	top: -1px;
+	left: 1px;
+	width: 51.505859375px;
+	height: 50.676025390625px;
+}
+
+#page_team_light_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__team_light_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_15 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+#__elements___toggle___off_ek3 {
+	top: 28px;
+	left: 1709px;
+	width: 94.72265625px;
+	height: 43.0556640625px;
+}
+
+#toggle_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 94.72265625px;
+	height: 43.0556640625px;
+}
+
+
+#position_ek9 {
+	top: 10px;
+	left: 61px;
+	width: 22.52734375px;
+	height: 22.52783203125px;
+}
+
+
+#off_ek9 {
+	top: 28px;
+	left: 1821px;
+	width: 67px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#team_ek3 {
+	top: 68px;
+	left: 80px;
+	width: 197px;
+	height: 117px;
+	font-family: Segoe UI;
+	font-size: 77px;
+	text-align: center;
+	color:#707070;
+}
+
+
+#rectangle_16 {
+	top: 222px;
+	left: 171px;
+	width: 1456px;
+	height: 698px;
+	-ms-border-radius: 38px;
+	-o-border-radius: 38px;
+	-moz-border-radius: 38px;
+	-webkit-border-radius: 38px;
+	border-radius: 38px;
+	background:rgba(204,204,204,255);
+}
+
+
+#rahul_gaur_ek1 {
+	top: 238px;
+	left: 414px;
+	width: 921px;
+	height: 269px;
+	font-family: Segoe UI;
+	font-size: 176px;
+	text-align: center;
+	color:#444444;
+}
+
+
+#hi__i_m_the_developer_behind_this_project__currently_pursuing_my_b_e__degree_from_nsit__my_interest_in_graphic_designing_and_development_brought_us_here__ek1 {
+	top: 510px;
+	left: 385px;
+	width: 1021px;
+	height: 261px;
+	font-family: Segoe UI;
+	font-size: 47px;
+	text-align: center;
+	color:#444444;
+}
+
+#group_11 {
+	top: 920px;
+	left: 1712px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+}
+
+#ellipse_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 115.2099609375px;
+	height: 112.54223632812px;
+	-ms-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-o-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-moz-border-radius: 57.60499954223633px / 56.271087646484375px;
+	-webkit-border-radius: 57.60499954223633px / 56.271087646484375px;
+	border-radius: 57.60499954223633px / 56.271087646484375px;
+	background:rgba(134,100,195,255);
+}
+
+#group_6_ek6 {
+	top: 32px;
+	left: 33px;
+	width: 51.6865234375px;
+	height: 49.0234375px;
+}
+
+#line_6_ek6 {
+	top: -1px;
+	left: -1px;
+	width: 50.6708984375px;
+	height: 51.13427734375px;
+}
+
+
+#path_7_ek6 {
+	top: -1px;
+	left: 1px;
+	width: 51.505859375px;
+	height: 50.676025390625px;
+}
+
+#page_notes___dark_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__notes___dark_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_17 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #000000;
+	background:rgba(0,0,0,255);
+}
+
+
+#anavrin_ek7 {
+	top: 23px;
+	left: 38px;
+	width: 204px;
+	height: 83px;
+	font-family: Segoe UI;
+	font-size: 54px;
+	text-align: left;
+	color:#8664c3;
+}
+
+#toggle_ek16 {
+	top: 28px;
+	left: 1709px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+#toggle_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+
+#position_ek10 {
+	top: 11px;
+	left: 11px;
+	width: 21.52783203125px;
+	height: 21.52783203125px;
+}
+
+
+#off_ek10 {
+	top: 28px;
+	left: 1821px;
+	width: 71px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#component_2___5 {
+	top: 128px;
+	left: 0px;
+	width: 1919.8464355469px;
+	height: 1px;
+}
+
+#line_2_ek4 {
+	top: -5px;
+	left: 0px;
+	width: 1919.8464355469px;
+	height: 10px;
+}
+
+
+#rectangle_21 {
+	top: 230px;
+	left: 263px;
+	width: 1200px;
+	height: 829px;
+	border: 1px solid #707070;
+	background:rgba(95,95,95,255);
+}
+
+#examples {
+	top: 230px;
+	left: 1449px;
+	width: 16px;
+	height: 831px;
+}
+#pdf_view {
+	top: 0px;
+	left: -0px;
+	width: 16px;
+	height: 831px;
+}
+#scrollbar {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 831px;
+}
+#scrollbar___mouse {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 831px;
+}
+
+#track {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 830.6337890625px;
+}
+
+
+#indicator {
+	top: 16px;
+	left: 0px;
+	width: 16px;
+	height: 60px;
+}
+
+#down {
+	top: 815px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#footprint {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#icon_ek5 {
+	top: 4px;
+	left: 4px;
+	width: 13px;
+	height: 11px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 8px;
+	text-align: left;
+	color:#000000;
+}
+
+#up {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#footprint_ek1 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+	background:rgba(0,0,0,0);
+}
+
+
+#icon_ek6 {
+	top: 4px;
+	left: 4px;
+	width: 13px;
+	height: 11px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 8px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#personal_notes {
+	top: 231px;
+	left: 1866px;
+	width: 48px;
+	height: 212px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#community {
+	top: 482px;
+	left: 1866px;
+	width: 48px;
+	height: 166px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#file_explorer {
+	top: 432px;
+	left: 10px;
+	width: 48px;
+	height: 173px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#sources_info {
+	top: 229px;
+	left: 10px;
+	width: 48px;
+	height: 175px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_22 {
+	top: 230px;
+	left: 1909px;
+	width: 11px;
+	height: 207px;
+	background:rgba(134,100,195,255);
+}
+
+
+#rectangle_23 {
+	top: 481px;
+	left: 1909px;
+	width: 11px;
+	height: 161px;
+	background:rgba(134,100,195,255);
+}
+
+
+#rectangle_24 {
+	top: 431px;
+	left: 0px;
+	width: 11px;
+	height: 168px;
+	background:rgba(134,100,195,255);
+}
+
+
+#rectangle_25 {
+	top: 229px;
+	left: 0px;
+	width: 11px;
+	height: 169px;
+	background:rgba(134,100,195,255);
+}
+
+
+#rectangle_26 {
+	opacity:0.21999999880791;
+	top: 132px;
+	left: 0px;
+	width: 1918px;
+	height: 64px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#software_engineering___ {
+	top: 142px;
+	left: 736px;
+	width: 323px;
+	height: 49px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#itc14 {
+	top: 142px;
+	left: 534px;
+	width: 77px;
+	height: 49px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_04_march {
+	top: 142px;
+	left: 1114px;
+	width: 134px;
+	height: 49px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__odio_ut_enim_blandit_volutpat__ut_etiam_sit_amet_nisl_purus_in_mollis__cras_pulvinar_mattis_nunc_sed_blandit_libero_volutpat__massa_ {
+	top: 214px;
+	left: 275px;
+	width: 1121px;
+	height: 823px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_18 {
+	top: 141px;
+	left: 38px;
+	width: 44px;
+	height: 45px;
+}
+
+#icon_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 49px;
+	height: 54px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 44px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_19 {
+	top: 141px;
+	left: 126px;
+	width: 44px;
+	height: 45px;
+}
+
+#icon_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 49px;
+	height: 54px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 44px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#page_notes___light_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__notes___light_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_27 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,255);
+}
+
+
+#anavrin_ek8 {
+	top: 23px;
+	left: 38px;
+	width: 204px;
+	height: 83px;
+	font-family: Segoe UI;
+	font-size: 54px;
+	text-align: left;
+	color:#8664c3;
+}
+
+#toggle_ek18 {
+	top: 28px;
+	left: 1709px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+#toggle_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 94.72216796875px;
+	height: 43.0556640625px;
+}
+
+
+#position_ek11 {
+	top: 11px;
+	left: 64px;
+	width: 21.52783203125px;
+	height: 21.52783203125px;
+}
+
+
+#off_ek11 {
+	top: 28px;
+	left: 1821px;
+	width: 67px;
+	height: 46px;
+	font-family: Segoe UI;
+	font-size: 30px;
+	text-align: left;
+	color:#4f4f4f;
+}
+
+#component_2___6 {
+	top: 128px;
+	left: 0px;
+	width: 1919.8465576172px;
+	height: 1px;
+}
+
+#line_2_ek5 {
+	top: -5px;
+	left: 0px;
+	width: 1919.8465576172px;
+	height: 10px;
+}
+
+
+#path_11 {
+	top: 230px;
+	left: 263px;
+	width: 1202px;
+	height: 831px;
+}
+
+#examples_ek1 {
+	top: 230px;
+	left: 1449px;
+	width: 16px;
+	height: 831px;
+}
+#pdf_view_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 831px;
+}
+#scrollbar_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 831px;
+}
+#scrollbar___mouse_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 831px;
+}
+
+#track_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 830.6337890625px;
+}
+
+
+#indicator_ek1 {
+	top: 16px;
+	left: 0px;
+	width: 16px;
+	height: 60px;
+}
+
+#down_ek1 {
+	top: 815px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#footprint_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#icon_ek9 {
+	top: 4px;
+	left: 4px;
+	width: 13px;
+	height: 11px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 8px;
+	text-align: left;
+	color:#000000;
+}
+
+#up_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#footprint_ek3 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+	background:rgba(0,0,0,0);
+}
+
+
+#icon_ek10 {
+	top: 4px;
+	left: 4px;
+	width: 13px;
+	height: 11px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 8px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#personal_notes_ek1 {
+	top: 231px;
+	left: 1866px;
+	width: 48px;
+	height: 212px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#4f4f4f;
+}
+
+
+#community_ek1 {
+	top: 482px;
+	left: 1866px;
+	width: 48px;
+	height: 166px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#4f4f4f;
+}
+
+
+#file_explorer_ek1 {
+	top: 432px;
+	left: 10px;
+	width: 48px;
+	height: 173px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#4f4f4f;
+}
+
+
+#sources_info_ek1 {
+	top: 229px;
+	left: 10px;
+	width: 48px;
+	height: 175px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#4f4f4f;
+}
+
+
+#rectangle_29 {
+	top: 230px;
+	left: 1909px;
+	width: 11px;
+	height: 207px;
+	background:rgba(134,100,195,255);
+}
+
+
+#rectangle_28 {
+	top: 481px;
+	left: 1909px;
+	width: 11px;
+	height: 161px;
+	background:rgba(134,100,195,255);
+}
+
+
+#rectangle_32 {
+	top: 431px;
+	left: 0px;
+	width: 11px;
+	height: 168px;
+	background:rgba(134,100,195,255);
+}
+
+
+#rectangle_33 {
+	top: 229px;
+	left: 0px;
+	width: 11px;
+	height: 169px;
+	background:rgba(134,100,195,255);
+}
+
+
+#rectangle_31 {
+	opacity:0.21999999880791;
+	top: 132px;
+	left: 0px;
+	width: 1918px;
+	height: 64px;
+	border: 1px solid #707070;
+	background:rgba(56,56,56,255);
+}
+
+
+#software_engineering____ek1 {
+	top: 141px;
+	left: 736px;
+	width: 323px;
+	height: 49px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#4f4f4f;
+}
+
+
+#itc14_ek1 {
+	top: 141px;
+	left: 534px;
+	width: 77px;
+	height: 49px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#4f4f4f;
+}
+
+
+#_04_march_ek1 {
+	top: 141px;
+	left: 1114px;
+	width: 134px;
+	height: 49px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#4f4f4f;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__odio_ut_enim_blandit_volutpat__ut_etiam_sit_amet_nisl_purus_in_mollis__cras_pulvinar_mattis_nunc_sed_blandit_libero_volutpat__massa__ek1 {
+	top: 214px;
+	left: 275px;
+	width: 1121px;
+	height: 823px;
+	font-family: Segoe UI;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_20 {
+	top: 141px;
+	left: 42px;
+	width: 44px;
+	height: 45px;
+}
+
+#icon_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 49px;
+	height: 54px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 44px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_21 {
+	top: 141px;
+	left: 130px;
+	width: 44px;
+	height: 45px;
+}
+
+#icon_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 49px;
+	height: 54px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 44px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#homepage {
+	top: -5712px;
+	left: -2051px;
+	width: 1815px;
+	height: 538px;
+	font-family: Segoe UI;
+	font-size: 352px;
+	text-align: center;
+	color:#666666;
+}
+
+
+#about_ek5 {
+	top: -5712px;
+	left: 2924px;
+	width: 1036px;
+	height: 538px;
+	font-family: Segoe UI;
+	font-size: 352px;
+	text-align: left;
+	color:#666666;
+}
+
+
+#team_ek4 {
+	top: -3385px;
+	left: 2924px;
+	width: 882px;
+	height: 538px;
+	font-family: Segoe UI;
+	font-size: 352px;
+	text-align: left;
+	color:#666666;
+}
+
+
+#select_your_prefrences {
+	top: -3385px;
+	left: -1992px;
+	width: 3676px;
+	height: 538px;
+	font-family: Segoe UI;
+	font-size: 352px;
+	text-align: left;
+	color:#666666;
+}
+
+
+#notes_pages {
+	top: -957px;
+	left: -1992px;
+	width: 2044px;
+	height: 538px;
+	font-family: Segoe UI;
+	font-size: 352px;
+	text-align: left;
+	color:#666666;
+}
+
+
+#line_1 {
+	top: -5129.5px;
+	left: -1991.5px;
+	width: 3910px;
+	height: 10px;
+}
+
+
+#line_4 {
+	top: -5129.5px;
+	left: 2914.5px;
+	width: 3910px;
+	height: 10px;
+}
+
+
+#line_7 {
+	top: -2802.5px;
+	left: 2914.5px;
+	width: 3910px;
+	height: 10px;
+}
+
+
+#line_3 {
+	top: -2802.5px;
+	left: -1990.5px;
+	width: 3910px;
+	height: 10px;
+}
+
+
+#line_8 {
+	top: -374.5px;
+	left: -1990.5px;
+	width: 3910px;
+	height: 10px;
+}
+
+
+#select_your_archive_ek2 {
+	top: 48px;
+	left: -2957px;
+	width: 407px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#semester_ek3 {
+	top: 200px;
+	left: -2957px;
+	width: 203px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#subject_code_ek2 {
+	top: 287px;
+	left: -2957px;
+	width: 282px;
+	height: 77px;
+	font-family: Segoe UI;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_18 {
+	top: 215px;
+	left: -2552px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_19 {
+	top: 308px;
+	left: -2572px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_20 {
+	top: 389px;
+	left: -2552px;
+	width: 329px;
+	height: 45px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_8 {
+	top: 236.61328125px;
+	left: -2266.8535766602px;
+	width: 15.773559570312px;
+	height: 8.59375px;
+}
+
+
+#path_9 {
+	top: 319.61328125px;
+	left: -2266.8535766602px;
+	width: 15.773559570312px;
+	height: 8.59375px;
+}
+
+
+#path_10 {
+	top: 410.61328125px;
+	left: -2266.8535766602px;
+	width: 15.773559570312px;
+	height: 8.59375px;
+}
+
+
+#semester_drop_down_ek4 {
+	top: 223px;
+	left: -2503px;
+	width: 216px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#subject_drop_down_ek4 {
+	top: 308px;
+	left: -2494px;
+	width: 198px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+
+#date_drop_down_ek3 {
+	top: 395px;
+	left: -2480px;
+	width: 170px;
+	height: 36px;
+	font-family: Segoe UI;
+	font-size: 23px;
+	text-align: left;
+	color:#434343;
+}
+
+#navigation___back_button___default___pressed {
+	top: 1133px;
+	left: -2193px;
+	width: 239px;
+	height: 158px;
+}
+#back_button___16px___40px_footprint {
+	top: 0px;
+	left: 0px;
+	width: 239px;
+	height: 158px;
+}
+#back_button {
+	top: 0px;
+	left: 0px;
+	width: 239px;
+	height: 158px;
+}
+
+#footprint_ek4 {
+	opacity:0;
+	top: 0px;
+	left: 0px;
+	width: 38px;
+	height: 38px;
+	background:rgba(0,0,0,0);
+}
+
+
+#icon_ek13 {
+	top: 141px;
+	left: 223px;
+	width: 21px;
+	height: 20px;
+	font-family: Segoe MDL2 Assets;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#anavrin_ek9 {
+	top: -5094px;
+	left: 8799px;
+	width: 653px;
+	height: 269px;
+	font-family: Segoe UI;
+	font-size: 176px;
+	text-align: center;
+	color:#cccccc;
+}
+
+
+#a_free_to_use_archive_of_day_to_day_college_classroom_notes__ek3 {
+	top: -5055px;
+	left: 9520px;
+	width: 695px;
+	height: 135px;
+	font-family: Segoe UI;
+	font-size: 47px;
+	text-align: center;
+	color:#cccccc;
+}
+
+
+
+/* Add your custom CSS here */
