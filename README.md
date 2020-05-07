@@ -4,10 +4,10 @@ The idea of Anavrin came in when was our exam time and everyone including me is 
 ![](images/srs/2.png)
 # Landing page
 Home page, here you can navigate to **join us**, you can veiw **about** and **team** to know more about project and owner, lastly all pages have **Dark-Light** mode for comfortable viewing experience. 
-<br/>
 ![](images/2.png)
 # Loggin page
 Here you can by loggin in with your registered email and password. Or you can register to login to website.
+While logging in, users are allowed to choose between **Student** or **Teacher**, and only an **admin** can assign other user as admin or **Subject Expert** who will primarily post notes, all subjects will have atleast 1 subject expert and we can have as many.
 ![](images/3.png)
 This loggin is made successfull by using mySQLi v7.4.5 which is locally hosted by Apache2.4.43, and connection is made possible by php v7.5.4
 Further are stated details about the local host: <br/>
