@@ -19,4 +19,4 @@ Protocol version: 10 <br/>
 User: root@localhost <br/>
 Server charset: UTF-8 Unicode (utf8mb4) <br/>
 Following is the SQL hosted, all the user values are _hidden_ on purpose!
-![](images/sql.png)
+
