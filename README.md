@@ -68,7 +68,7 @@ Anyone who can use this web-application, though the content is best suited for c
 1. Users should be able to loggin through the account the created on this web-app, they are given tags such as teacher, student, subject-experts and admin.<br/>
 2. They should be able to share PDFs, and document related photos, and video links.<br/>
 3. Users can ask doubts in the discussion tab for more clearity.<br/>
-4. Teachers can go through the last dated study material of respected  course to check what has been taught yet and what is yet to be taught. 
+4. Teachers can go through the last dated study material of respected  course to check what has been taught yet and what is yet to be taught. <br/>
 <br/><br/>
 **2.3 Platform**
 <br/><br/>
@@ -103,3 +103,12 @@ Content on Anavrin is strictly bounded to classroom only, so students get to kno
 present their, either for quick refrence or exam prepration. Thus, I think that there is a considerable amount of difference between Geeksforgeeks.org, Udemy.com etc and my application and it would attract many students.
 <br/><br/>
 ![](images/srs/10.png)
+**6. Technical Process**
+Following would be the languages / tools I would use to develop my application:<br/><br/>
+-Front-end development: JavaScript, HTML, CSS.<br/>
+-Back-end development: PHP, MySQL.<br/>
+-UI-UX designing: Adobe illustrator, XD.<br/>
+<br/><br/>
+ ![](images/srs/13.png)
+ ![](images/srs/15.png)
+ ![](images/srs/16.png)
